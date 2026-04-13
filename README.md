@@ -26,7 +26,7 @@ Tulen is:
 
 Tulen will:
 
-* Speak naturally using a **custom voice (Saku)**
+* Speak naturally using a **custom voice 
 * Express **human-like emotions** (happy, harsh, calm, seductive, empathetic)
 * Adapt tone based on context or commands like:
 
@@ -41,7 +41,7 @@ Tulen will:
 ### 🗣️ Voice Interaction
 
 * Speak and listen in real-time
-* Custom voice output (Saku voice integration)
+* Custom voice output 
 * Natural conversation flow
 
 ### 💻 Desktop Control
