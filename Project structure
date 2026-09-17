@@ -1,0 +1,7 @@
+tiulen/
+├─ .env                  # put your API keys here (OPENAI_API_KEY or GPT4ALL path)
+├─ requirements.txt
+├─ personality.json      # Tiulen personality + modes (loaded by the app)
+├─ main.py               # MVP skeleton (chat loop + mode switching)
+├─ commands.py           # command handlers (master control, self-destruct stub)
+└─ README.md

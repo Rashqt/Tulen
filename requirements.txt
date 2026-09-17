@@ -1,0 +1,17 @@
+openai
+python-dotenv
+rich
+gpt4all
+whisper
+sounddevice
+pyttsx3
+webrtcvad
+resemblyzer
+cryptography
+flask
+requests
+python-dotenv
+playsound
+# Optional / advanced
+coqui-tts
+pvporcupine
